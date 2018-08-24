@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "modular-css-core": "^14.4.0",
+    "postcss": "^7.0.2"
+  }
+}
